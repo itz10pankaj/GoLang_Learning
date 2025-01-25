@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	welcome := "Welcome to user"
+	welcome := "Welcome to user,hello"
 	fmt.Println(welcome)
 
 	fmt.Println("ENTER READING FOR OUR PIZZA:")
